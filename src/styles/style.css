@@ -1,0 +1,19 @@
+.spinner-border
+{
+    display: block;
+    margin: 10% auto;
+}
+
+#aprovado
+{
+    width: 40%;
+    display: block;
+    margin: 10% auto;
+}
+
+#reprovado
+{
+    width: 40%;
+    display: block;
+    margin: 10% auto;
+}
